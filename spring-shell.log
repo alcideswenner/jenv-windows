@@ -1,0 +1,84 @@
+1686248157521:testando
+1686248280040:hello
+1686248795407:getJavaVersion
+1686248832136:javaVersion
+1686248836901:javaversion
+1686248845494:javaVersion
+1686248867740:hello
+1686248889167:version
+1686248930030:teste
+1686249065886:jenv teste
+1686249067916:teste
+1686249117566:jenv teste
+1686249120202:teste
+1686249229670:jenv teste
+1686249276103:jenv get version
+1686249561897:jenv add jdk 10
+1686249586978:jenv add j 1
+1686249596002:jenv ad
+1686249598137:jenv
+1686249608012:jenv add jdk "10"
+1686249737107:jenv add addJdk 10
+1686249949005:jenv addJdk jdk 10
+1686250090115:jenv addJdk 10
+1686250101498:jenv addJdk jdk "10"
+1686250261044:jenv addJdk --jdk 10
+1686250306194:jenv add jdk jdk 10
+1686250313673:jenv add jdk jdk 154
+1686250396891:jenv add jdk 15
+1686250410688:jenv add --jdk 15
+1686250504731:jenv change --jdk 85
+1686252759798:jenv add --jdk 17 --path "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.7.7-hotspot"
+1686253259044:jenv add --jdk 17 --path C:Program FilesEclipse Adoptiumjdk-17.0.7.7-hotspot
+1686253423932:jenv add --jdk 17 --path  C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot
+1686253522522:jenv add --jdk 17 --path  "C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot"
+1686253568428:jenv add --jdk 17 --path  C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot
+1686253590305:jenv add --jdk 17 --path "C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot"
+1686253646682:jenv add --jdk 17 --path C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot
+1686253708058:jenv add --jdk 17 --path "C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot"
+1686253850450:jenv add --jdk 17 --path  C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot
+1686254116873:shell:>jenv add --jdk 17 --path "C:\\\\Program\\\\FilesEclipse\\\\Adoptiumjdk-17.0.7.7-hotspot"
+1686254142288:jenv add --jdk 17 --path  C:\\Program\\FilesEclipse\\Adoptiumjdk-17.0.7.7-hotspot
+1686254157807:jenv add --jdk 17 --path  C:\\\\Program\\\\FilesEclipse\\\\Adoptiumjdk-17.0.7.7-hotspot
+1686254226576:jenv add --jdk 17 --path  C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.7.7-hotspot
+1686254246199:jenv add --jdk 17 --path  C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-17.0.7.7-hotspot
+1686254323814:jenv add --jdk 17 --path  C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.7.7-hotspot
+1686254331798:jenv add --jdk 17 --path  C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-17.0.7.7-hotspot
+1686254406640:jenv add --jdk 17 --path  C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.7.7-hotspot
+1686254412219:jenv add --jdk 17 --path  C:\\\\Program\\\\FilesEclipse\\\\Adoptiumjdk-17.0.7.7-hotspot
+1686254461223:jenv add --jdk 17 --path  C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-17.0.7.7-hotspot
+1686254521484:jenv add --jdk 8 --path  C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-8.0.372.7-hotspot
+1686254643560:jenv list
+1686254941957:jenv get version
+1686254952399:jenv change jdk 8
+1686254987807:jenv change --jdk 8
+1686255011456:jenv change --jdk jdk8
+1686255144353:jenv change --jdk 8
+1686255156439:jenv change --jdk jdk8
+1686255691813:jenv change --jdk 8
+1686256043732:jenv change jdk 8
+1686256067315:jenv change --jdk jdk8
+1686259211575:jenv list
+1686260640092:jenv change --jdk jdk17
+1686260880121:jenv change ---jdk jdk17
+1686260887553:jenv change --jdk jdk17
+1686262193940:jenv list
+1686262236723:jenv change --jdk jdk17
+1686262676257:jenv list
+1686263139992:jenv change --jdk jdk17
+1686263414438:jenv list
+1686263426047:jenv change --jdk jdk17
+1686263620950:jenv list
+1686263630030:jenv change --jdk jdk17
+1686263659878:jenv change --jdk jdk8
+1686328396916:jenv list
+1686440275530:jenv change --jdk 17
+1686440464536:jenv list
+1686440512144:jenv change --jdk 17
+1686440584762:jenv list
+1686440597026:jenv change --jdk 17
+1686440619815:jenv list
+1686440698945:jenv change --jdk 17
+1686441057129:jenv list
+1686441068663:jenv change --jdk 17
+1686441188879:jenv change --jdk 8

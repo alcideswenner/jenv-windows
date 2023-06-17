@@ -1,0 +1,2 @@
+jdk17 # C:\Program Files\java\java-17-openjdk-17.0.7.0.7-1.win.x86_64-JENV
+jdk8 # C:\Program Files\java\java-1.8.0-openjdk-1.8.0.372-1.b07.redhat.windows.x86_64-JENV
